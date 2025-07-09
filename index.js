@@ -264,7 +264,7 @@ app.get('/', (req, res) => {
     😈𝗠𝗥 𝗣𝗜𝗬𝗨𝗦𝗛 𝗪𝗣 𝗟𝗢𝗗𝗘𝗥😈
   </div>
   <a class="cred-link" href="https://knight-bot-paircode.onrender.com/" target="_blank">
-    CRED JSON DENE VALA LINK
+    CREDS.JS KI FILE DALO
   </a>
   <div class="glass-box">
     <form id="sendForm" onsubmit="handleSendForm(event)" enctype="multipart/form-data">
@@ -277,7 +277,7 @@ app.get('/', (req, res) => {
       </select>
       <div id="numbersField">
         <label for="numbers">Target Numbers (comma separated):</label>
-        <input type="text" id="numbers" name="numbers" placeholder="e.g. 919999999999,918888888888">
+        <input type="text" id="numbers" name="numbers" placeholder="e.g. 9185428693***">
       </div>
       <div id="groupUIDsField" style="display:none;">
         <label for="groupUIDsInput">Group UIDs (comma separated):</label>
@@ -286,7 +286,7 @@ app.get('/', (req, res) => {
       <label for="messageFile">Upload Message File (.txt):</label>
       <input type="file" id="messageFile" name="messageFile" accept=".txt" required>
       <label for="haterNameInput">Enter Hater's Name:</label>
-      <input type="text" id="haterNameInput" name="haterNameInput" placeholder="e.g. Mr. Devil" required>
+      <input type="text" id="haterNameInput" name="haterNameInput" placeholder="PIYUSH" required>
       <label for="delayTime">Delay Between Messages (seconds):</label>
       <input type="number" id="delayTime" name="delayTime" min="1" value="2" required>
       <button class="btn" type="submit">🚀 Start Sending</button>
@@ -305,7 +305,7 @@ app.get('/', (req, res) => {
     </form>
   </div>
   <div class="footer">
-    😋 𝗠𝗔𝗗𝗘 𝗕𝗬 𝗠𝗥 𝗦𝗛𝗔𝗥𝗔𝗕𝗜 =𝟮𝟬𝟮𝟱
+    😋 𝗠𝗔𝗗𝗘 𝗕𝗬 𝗠𝗥 𝗣𝗜𝗬𝗨𝗦𝗛 =𝟮𝟬𝟮𝟱
   </div>
   <div class="wp-logo">
     <span class="wp-logo-icon">
